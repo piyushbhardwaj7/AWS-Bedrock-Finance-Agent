@@ -54,9 +54,11 @@ Asked the AI agent to recommend monthly budgets based on historical spending dat
 The agent generated personalized budgeting recommendations and highlighted areas where spending could be optimized.
 
 AWS Resources Used
+
 Amazon Bedrock, Amazon Bedrock Agents, Amazon Nova Lite Foundation Model, AWS IAM ,Key Concepts Practiced, Amazon Bedrock, Foundation Models, AI Agents, Prompt Engineering, Code Interpreter, Natural Language Processing, Financial Data Analysis, AI-powered Budget Recommendations
 
 What I Learned
+
 How to build AI agents using Amazon Bedrock.
 How foundation models process natural language prompts.
 How the Code Interpreter analyzes structured datasets such as CSV files.
